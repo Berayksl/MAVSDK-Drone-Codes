@@ -2,7 +2,7 @@
 
 Python scripts for commanding an ArduPilot-based quadrotor through [MAVSDK-Python](https://github.com/mavlink/MAVSDK-Python), using OptiTrack motion capture as the position source for indoor flight.
 
-[Demo video](https://youtu.be/kBTWviXE7wE)
+[![Watch the demo](https://img.youtube.com/vi/kBTWviXE7wE/hqdefault.jpg)](https://youtu.be/kBTWviXE7wE)
 
 ## Overview
 
@@ -16,7 +16,7 @@ The scripts communicate with the flight controller over MAVLink through MAVSDK's
 | --- | --- |
 | `Experiment/` | Flight scripts used in hardware experiments (waypoint missions, offboard setpoints) |
 | `test/` | Smaller scripts for checking connection, telemetry, and individual commands before flying |
-| `mocap_optitrack.zip` | ROS package configuration used to bridge OptiTrack pose data to MAVLink |
+| `mocap_optitrack.zip` | ROS package used to bridge OptiTrack pose data to MAVLink |
 
 ## Requirements
 
