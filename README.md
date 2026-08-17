@@ -2,6 +2,8 @@
 
 Python scripts for commanding an ArduPilot-based quadrotor through [MAVSDK-Python](https://github.com/mavlink/MAVSDK-Python), using OptiTrack motion capture as the position source for indoor flight.
 
+Watch the demo:
+
 [![Watch the demo](https://img.youtube.com/vi/kBTWviXE7wE/hqdefault.jpg)](https://youtu.be/kBTWviXE7wE)
 
 ## Overview
